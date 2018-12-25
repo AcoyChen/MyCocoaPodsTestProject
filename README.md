@@ -1,0 +1,2 @@
+# MyCocoaPodsTestProject
+一个CocoaPods的测试仓库
